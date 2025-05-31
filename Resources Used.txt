@@ -1,0 +1,4 @@
+Youtube Video: https://www.youtube.com/watch?v=YQCDUJ6hhNY&list=PLfhoe-dM_08cXLO_audZkngKk6ihajA3_&index=7
+
+Github Repo: https://github.com/CodeCompleteYT/react-portfolio/tree/main/src
+
